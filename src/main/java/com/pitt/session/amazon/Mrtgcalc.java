@@ -1,5 +1,8 @@
 package com.pitt.session.amazon;
 
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+
 public class Mrtgcalc {
  
 	@FindBy(id="homeval")	
@@ -10,4 +13,8 @@ public class Mrtgcalc {
 	WebElement loanamnttext;
 	@FindBy(id="")	
 	WebElement intrstratetext;
+	@FindBy(id="")
+	WebElement asdasdasd;
+
+	
 }
