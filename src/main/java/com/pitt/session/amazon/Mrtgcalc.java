@@ -15,6 +15,9 @@ public class Mrtgcalc {
 	WebElement intrstratetext;
 	@FindBy(id="")
 	WebElement asdasdasd;
-
+	@FindBy(id="")
+	WebElement dgfdfg;
+	@FindBy(id="")
+	WebElement yuyorj;
 	
 }
